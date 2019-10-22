@@ -14,3 +14,8 @@ $ source venv/Scripts/activate # Windows
 $ python manage.py makemigrations
 $ python manage.py migrate
 ```
+
+# If you're using Linux run this command:
+```sh
+$ source init.sh
+```
